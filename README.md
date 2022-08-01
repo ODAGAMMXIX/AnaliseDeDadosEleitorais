@@ -1,1 +1,4 @@
 # AnaliseDeDadosSextoSem
+
+run jupyter notebook
+
